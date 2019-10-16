@@ -1,0 +1,26 @@
+[VIEW]
+name=.\CD.NET
+x=154
+y=174
+w=622
+h=345
+
+[BITMAP]
+name=
+
+[ITEMS]
+ip1=194.117.12.1
+length=1
+
+[194.117.12.1]
+name=athena.cd.fc.ul.pt
+x=49
+y=20
+type=1
+objectid=enterprises[311.1.1.3.1]
+default=TRUE
+icon=HOST
+community=68 93 60 58 69 43 78 -46 -56 77 10 51 -47 -20 -34 -20 72 -20 101 97 -103
+
+[CONNECTIONS]
+length=0

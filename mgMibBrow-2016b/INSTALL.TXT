@@ -1,0 +1,28 @@
+Installation Guidelines
+=======================
+
+Thank you for choosing MG-SOFT's products.
+
+This software distribution package contains the installers for 
+32-bit (x86) and 64-bit (x86_64) build of MG-SOFT MIB Browser
+Professional Edition with MIB Compiler for Windows.
+
+- On 32-bit Windows operating systems install the 32-bit version
+  of the software by running the "setup-32.exe".
+
+- On 64-bit Windows operating systems install either 64-bit or 
+  32-bit version by running "setup-64.exe" or "setup-32.exe",
+  respectively.
+
+Follow the installation guidelines on screen to complete the 
+software installation. When prompted for the license.key file, 
+navigate to the folder containing your license.key file 
+(if you have purchased the software and selected the physical 
+delivery method, license.key is available on the enclosed 
+USB flash card). In case you are evaluating the software and 
+do not have a license.key file, follow the guidelines given
+in the Remove_Evaluation_Restrictions.txt file to obtain it.
+
+
+For additional information contact <support@mg-soft.com>.
+

@@ -1,0 +1,109 @@
+This is the "Trouble_Shooting.txt" file distributed with
+MG-SOFT MIB Browser Professional Edition.
+
+Copyright (C) 1995-2016  MG-SOFT Corporation.
+All rights reserved.
+
+========================================================================
+Table of Contents
+-----------------
+
+1. MIB Browser's splash screen displayed longer than usually
+2. General guidelines for reporting the problem
+
+
+========================================================================
+1. MIB Browser's splash screen displayed longer than usually
+------------------------------------------------------------
+
+Problem Description
+-------------------
+
+Sometimes, MIB Browser cannot properly initialize a notifications
+receiving module at startup. In this case the program startup takes
+longer than usually. This behavior is mostly related to the
+Microsoft's SNMP Trap service.
+
+Symptoms
+--------
+
+The MIB Browser's splash screen, which is normally shown only for
+a few seconds at the program startup, remains displayed for a few
+minutes showing a notice 'Registering Notifications...'.
+
+Solution
+--------
+
+Check if you have the Microsoft's SNMP Trap service running or not.
+If not, set the service to 'Automatic' startup at boot time (or
+disable it, if you do not need it), but do NOT configure it for
+'Manual' startup.
+
+Also, if you installed Microsoft SNMP service when a certain service
+pack was already installed on that computer, you must re-apply
+the same (or newer) service pack. Otherwise, the newly installed SNMP
+Service may not function properly.
+
+
+========================================================================
+2. General guidelines for reporting the problem
+-----------------------------------------------
+
+Before reporting the problem, make sure that you are using the latest
+version of the software as available from MG-SOFT's download page at
+http://www.mg-soft.com/download.html. Report the problem only in case
+you can reproduce it by using the latest version of the software and
+you cannot find a suitable problem solution description in this document.
+
+In order to receive a prompt and accurate response from the support
+team, provide the following information when reporting a problem:
+
+ 1. For which software title are you reporting the problem?
+
+ 2. Are you using the licensed or evaluation version of the
+    software? If licensed, attach the SERIAL.TXT file that you
+    received with the license.key file when you licensed the
+    software.
+
+ 3. If the application has the "Help|Support" option in the
+    main menu, send us the complete output of that function.
+    Otherwise, let us know exactly which version of the
+    software are you using? Please report both, the version
+    displayed in the software's About window as well as the
+    version obtained by right-clicking the EXE or DLL file in
+    the Windows Explorer and by selecting the Properties item
+    from the pop-up menu. In the File Properties dialog select
+    the Version tab and let us know the version listed there.
+
+ 4. Which operating system are you using (Windows XP, Windows
+    Server 2003, Windows Vista, Windows Server 2008, Windows 7,
+    Windows Server 2012, Windows 8)? Which service pack is 
+    installed on that operating system?
+
+ 5. Did you install the software as Administrator?
+    Do you have administrative privileges when running the software?
+
+ 6. Do you have any other SNMP or network management software
+    installed on that computer? Or any other kind of software
+    that may interfere with MG-SOFT's software. If yes, which?
+
+ 7. Can you reproduce the problem on any other computer?
+    What is the operating system running on the other computer?
+
+ 8. Describe the exact step-by-step procedure to reproduce
+    the problem.
+
+ 9. When reporting problems related to MIB Compiler (i.e.,
+    when you are unable to compile a MIB file), zip the MIB file
+    and all MIBs that are imported by the MIB, and e-mail the zip
+    file along with your support application.
+
+10. Do you have a firewall running on your PC or on your
+    network that is blocking certain TCP and UDP ports, which
+    could prevent normal operation of MG-SOFT's software products?
+
+
+Please e-mail answers to the above questions to <support@mg-soft.si>.
+
+
+========================================================================

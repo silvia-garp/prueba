@@ -1,0 +1,53 @@
+IMPORTANT LICENSING INFORMATION
+
+This software package installs the following
+MG-SOFT's applications:
+
+* Visual MIB Builder,
+* MIB Explorer,
+* MIB Browser Professional Edition,
+* MIB Compiler and
+* MIB Update Utility.
+
+Visual MIB Builder and MIB Explorer are available in
+Standard and Developer's Edition, while MIB Browser
+is available in the following five editions:
+
+* MIB Browser Professional SNMPv1/v2c Edition
+  (supporting SNMPv1 and SNMPv2c protocols).
+
+* MIB Browser Professional SNMPv3 Edition
+  (supporting SNMPv1, SNMPv2c and SNMPv3 protocols).
+
+* MIB Browser Professional DOCSIS/DH Edition
+  (supporting SNMPv1, SNMPv2c and SNMPv3 protocols
+   as well as the Diffie-Hellman key exchange
+   model for managing DOCSIS-based SNMPv3 agents.
+   Besides, this edition supports IPv6 protocol).
+
+* MIB Browser Professional Developer's Edition
+  (supporting SNMPv1, SNMPv2c and SNMPv3 protocols,
+   Diffie-Hellman key exchange model and the
+   Generic SNMP Trace debugging option. Besides,
+   this edition supports IPv6 protocol).
+
+* MIB Browser Professional Simulator Edition
+  (supporting SNMPv1, SNMPv2c and SNMPv3 protocols,
+   Diffie-Hellman key exchange model, the
+   Generic SNMP Trace feature, and IPv6 protocol.
+   Furthermore, this edition incorporates the
+   SNMP Agent Simulator).
+
+
+Which of these applications and which features will
+be available in the installed software, depends on
+the purchased license.
+
+Visit http://www.mg-soft.com/sales.html or contact
+<sales@mg-soft.com> to obtain the latest ordering and
+licensing information.
+
+Prior to ordering the software, visit
+http://www.mg-soft.com/licenseTypes.html for details
+on various licensing arrangements for licensing
+MG-SOFT's software products.
